@@ -1,0 +1,15 @@
+
+{
+    "name" : "Aki's Portfolio",
+    "url" : "https://developeraki.github.io/akidev/",
+    "repo url" : "https://www.github.com/developeraki/akidev",
+    "description" : "Ecco qui il mio prio portfolio programmato utilizzando solamente HTML & CSS",
+    "author" : {
+        "creator" : "aki",
+        "github" : "https://www.github.com/developeraki",
+        "workspaces" : [
+            "GitHub", "GitHub Desktop", "Visual Studio Code"
+        ],
+        "main-branch" : "main"
+    }
+}
