@@ -4,13 +4,13 @@ qui verranno mostrati gli updates più importanti del sito e i commit più signi
 
 ---
 
-> Commit 13 - `modifica file`
-    - updated `README.md` 
-        - Added: 
-          - Struttura File
-          - Descrizione Dettagliata
-    - removed `shop button`
-        - causa: sezione shop non ancora terminata.
+> Commit 13 - `modifica file`<br>
+    - updated `README.md` <br>
+        - Added: <br>
+          - Struttura File <br>
+          - Descrizione Dettagliata <br>
+    - removed `shop button` <br>
+        - causa: sezione shop non ancora terminata. <br>
 
 
 ---
