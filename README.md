@@ -19,6 +19,6 @@ ecco il mio primo portfolio hostato con GitHub Pages.<br>
 ## Descrizione dettagliata
 <br>
 ecco il mio primo portfolio scritto in `HTML5` e `CSS3`, hostato tramite GitHub Pages.<br>
-code source : [click here](https://www.github.com/developeraki/akidev/)<br>
+code source : [click here](https://www.github.com/developeraki/akidev/) <br>
 link : [click here](https://developeraki.github.io/akidev/)
 
